@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning ... fintech
 - 💞️ I’m looking to collaborate on ... linkedin
 - 📫 How to reach me ...linkedin
-- 😄 Pronouns: ...n/a
-- ⚡ Fun fact: ... nothin yo have fun
+- ⚡ Fun fact: ... nothing to have fun
 
 <!---
 abdurrr327/abdurrr327 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
